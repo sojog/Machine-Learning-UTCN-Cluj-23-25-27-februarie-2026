@@ -1,0 +1,11 @@
+
+print("Hello World")
+print("Salutare lume")
+print("Hello World")
+print("Salutare lume 2")
+print("Hello World")
+print("Salutare lume 3")
+print("Hello World")
+print("Salutare lume 4")
+print("Hello World")
+print("Salutare lume 5")
